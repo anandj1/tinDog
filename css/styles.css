@@ -1,0 +1,192 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-size: larger;
+text-align: center;
+
+}
+
+
+.container-fluid{
+    /* padding: 3% 15% 7%; */
+    padding: 7% 15%;
+    
+}
+
+h1{
+    /* color: #fff; */
+    font-family:Impact, 'Arial Bold', sans-serif;
+    /* font-family:'Montserrat-Black-900', sans-serif; */
+    padding-top: 4%;
+    
+    font-size: 4.9rem;
+    line-height: 1.2;
+}
+h2,h3,.hh{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+.navbar{
+    padding : 0 0  4.5rem 0;
+
+}
+
+#title .container-fluid{
+    padding: 3% 15%;
+    text-align: left;
+}
+
+.bright-colored{
+     background-color: #ff4c68;
+     color: #fff;
+
+}
+.white-colored{
+    background-color: #fff;
+}
+
+
+
+
+
+
+.navbar-brand{
+    font-size: 40px;
+}
+.one{
+    padding-top: 5%;
+
+}
+.custom-hover-color:hover {
+    background-color: #4d77ca; /* Replace with your desired hover color */
+    /* color: #ffffff; Replace with your desired text color */
+  }
+  .nav-item{
+    padding: 0 18px;
+  }
+.nav-link{
+    font-size: 1.2rem;
+
+}
+.download{
+   margin: 3% 4% 3% 0%;
+
+}
+.img-edit{
+    width: 60%;
+    transform: rotate(25deg);
+    margin-left: 20%;
+    position: absolute;
+    z-index: 1;
+
+}
+#features{
+    /* background-color: #fff; */
+    position: relative;
+    z-index: 1;
+    
+
+}
+@media(max-width :1028px){
+
+#title{
+    text-align: left;
+}
+
+    .img-edit{
+        position: static;
+        transform: rotate(0);
+    }
+}
+.amd{
+   
+    padding: 5%;  
+}
+h3{
+    font-weight: 800;
+    font-size: larger;  
+}
+p{
+    color: #8f8f8f;
+}
+.icon{
+    color:#ef8172;
+    margin-bottom: 1.5rem;
+}
+
+.icon:hover {
+    color:#ff4c68;
+}
+#testimonials{
+    /* padding: 7% 15%; */
+    background-color: #ef8172;
+    color: #fff;
+
+}
+.dog-img{
+    border-radius: 100%;
+    margin: 50px 0 0 100px;
+    width: 20%;
+    
+}
+#press{
+    padding: 4% 14%;
+    background-color: #ef8172;
+}
+.press-logo{
+    width: 18%;
+    margin-left : 10px;
+
+    
+}
+.carousel-indicators{
+    margin-left: 100px;
+}
+.testimonial-image{
+    border-radius: 100%;
+    width:25%;
+    margin: 50px 0 0 100px;
+    
+}
+
+#pricing{
+    padding: 100px;
+}
+.card-col{
+    padding: 3% 2%;
+}
+.btn-lg{
+    font-size:29px ;
+    padding: 12px 25px;
+    border-radius: 10px;
+}
+.gp{
+    background-color: #fff;
+    color: black;
+    
+}
+#cta{
+    padding: 120px;
+}
+
+.hh{
+    font-size: 70px;
+    font-weight: 800;
+    color: #fff;
+
+}
+#footer{
+    font-size: larger;
+}
+
+.impx{
+    margin: 20px 15px;
+}
+
+
+
+.lotus{
+    font-size: 32px;
+    margin-top: 20px;
+}
+
